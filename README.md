@@ -10,6 +10,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaojenkuo/introduction-to-r/master)
 
+## 共同筆記
+
+<https://colab.research.google.com/drive/1E5h9JiWSO_rEtMd6NanVt5AWHQ6aJvF8?usp=sharing>
+
 ## 課程大綱
 
 - [起步走](01-getting-started.slides.html)
